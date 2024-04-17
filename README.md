@@ -1,1 +1,1 @@
-The report file consists the Demo video and summary of the project
+The report file consists of the demo video and a summary of the project.
